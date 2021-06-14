@@ -9,15 +9,7 @@
 <script>
 export default{
     name: "Hijo",
-    props: ['numero', "items"],
-    // data(){
-    //     return{
-    //         items: ["Item 1", "Item 2", "Item 3"]
-    //     }
-    // },
-    // mounted(){
-    //     this.$emit("itemsHijo", this.items)
-    // }
+    props: ['numero', "items"]
 }
 </script>
 
